@@ -26,7 +26,7 @@ El proyecto está construido utilizando las siguientes tecnologías:
 ## 🌐 Cómo Ver el Proyecto
 El proyecto está desplegado en GitHub Pages. Puedes visualizarlo en el siguiente enlace:
 
-[https://mcamilagomez.github.io/WEB-FE-REACT-HW4-MARIA/](Planeación Estratégica)
+https://mcamilagomez.github.io/WEB-FE-REACT-HW4-MARIA/
 
 ## 📋 Licencia
 Puedes usar, modificar y distribuir este código de acuerdo con los términos de la licencia.
