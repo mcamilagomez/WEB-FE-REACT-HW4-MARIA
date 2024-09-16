@@ -7,8 +7,11 @@ function Main({ name, debilidades, fortalezas, amenazas, oportunidades }) {
       <main className="font-Public Sans px-12 p-10 text-2xl bg-[#F4F4F9] text-[#2C3E50] sm:text-2xl">
 
       <div className="flex justify-center">
-        <h2 className="font-bold text-center border-2 border-[#1e2a37] p-2 mt-4 mb-[5px] bg-[#2C3E50] rounded-md shadow-md text-white w-[100px] md:w-[200px]">Introducción </h2>
+        <h2 className="font-bold text-center border-2 border-[#1e2a37] p-1 mt-20 sm:mt-[25px] mb-[3px] bg-[#2C3E50] rounded-md shadow-md text-white w-[170px] md:w-[300px]">
+          Introducción
+        </h2>
       </div>
+
 
       <section className="bg-[#f9f9f9] mt-[32px] ml-0 p-[20px] pt-0 pl-8 pr-9 pb-[25px] text-justify border-gray-300 shadow-2xl rounded-lg  max-w-[1430px] mx-auto text-[20px]">
         <br></br>
