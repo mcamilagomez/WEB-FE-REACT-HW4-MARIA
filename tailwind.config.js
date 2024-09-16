@@ -5,7 +5,11 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        moderustic: ["Public Sans"], // Añade la fuente Moderustic
+      },
+    },
   },
   plugins: [],
 }
